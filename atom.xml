@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>Sun`s Life</title>
+  
+  <subtitle>Blogs to Record Every Moment</subtitle>
+  <link href="http://sunsjademy.github.io/atom.xml" rel="self"/>
+  
+  <link href="http://sunsjademy.github.io/"/>
+  <updated>2021-08-22T20:18:38.983Z</updated>
+  <id>http://sunsjademy.github.io/</id>
+  
+  <author>
+    <name>Sun</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://sunsjademy.github.io/2021/08/22/hello-world/"/>
+    <id>http://sunsjademy.github.io/2021/08/22/hello-world/</id>
+    <published>2021-08-22T20:18:38.983Z</published>
+    <updated>2021-08-22T20:18:38.983Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>day1</title>
+    <link href="http://sunsjademy.github.io/2021/08/22/2021-08-22/"/>
+    <id>http://sunsjademy.github.io/2021/08/22/2021-08-22/</id>
+    <published>2021-08-22T14:11:12.000Z</published>
+    <updated>2021-08-23T08:26:06.219Z</updated>
+    
+    <content type="html"><![CDATA[<p>上午去了Spar Tallaght Village,买了可乐、低脂牛奶、猪腿肉、肉肠、培根。<br>中午把三种肉食用烤箱第一次尝试，肉肠还行，猪腿肉一般，培根一言难尽，又干又脆。<br>下午去了Cost Less The Supermarket。<br>听房东说可以从草坪那里穿过去不用绕路，走到草坪前发现有围墙就折返准备绕路，一位正在打理小花园的大叔主动询问了我是不是想从草坪那里出去并指了路，感谢大叔。<br>在超市买了空心菜、红辣椒、青椒、大蒜、生姜、牛肉、生抽、老抽、麻油、蚝油、盐、糖、食用油（看包装是葵花籽油），卖肉的几个好像中亚地区的人啊。<br>超市收银台有两个，但只有一个队伍，哪里有空等候的人就去哪个，也挺好，队伍不会杂乱。<br>晚饭先是捣鼓了一下电磁灶，第一次用只开了3级，煮了一会水都没烧开，只好找房东阿姨借用一下她特意装的煤气灶把意面下了（没把握好量把一袋500g全下完了，最后只吃了四分之一吧），<br>阿姨说做饭开最高的9级。又回来剥蒜切姜炒了半袋空心菜（事实证明应该把整袋炒完），朱桑切了些牛肉找阿姨借了料酒腌了一下，和青椒一起炒了。<br>那锅意面寡淡，就乘了点下锅加蚝油生抽炒了一下（黑暗料理），不过至少能吃，味道还行。</p><p>学习一下怎么加图片，先到这里。<br>2021-08-23 09：25 UTC +0：00 </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;上午去了Spar Tallaght Village,买了可乐、低脂牛奶、猪腿肉、肉肠、培根。&lt;br&gt;中午把三种肉食用烤箱第一次尝试，肉肠还行，猪腿肉一般，培根一言难尽，又干又脆。&lt;br&gt;下午去了Cost Less The Supermarket。&lt;br&gt;听房东说可以从草坪那</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
