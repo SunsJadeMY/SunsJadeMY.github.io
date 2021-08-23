@@ -6,7 +6,7 @@
   <link href="http://sunsjademy.github.io/atom.xml" rel="self"/>
   
   <link href="http://sunsjademy.github.io/"/>
-  <updated>2021-08-22T20:18:38.983Z</updated>
+  <updated>2021-08-23T15:55:00.314Z</updated>
   <id>http://sunsjademy.github.io/</id>
   
   <author>
@@ -15,6 +15,19 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>day2-0823</title>
+    <link href="http://sunsjademy.github.io/2021/08/23/day2-0823/"/>
+    <id>http://sunsjademy.github.io/2021/08/23/day2-0823/</id>
+    <published>2021-08-23T08:55:00.000Z</published>
+    <updated>2021-08-23T15:55:00.314Z</updated>
+    
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
