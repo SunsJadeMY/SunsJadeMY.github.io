@@ -430,9 +430,13 @@
             <div class="row tag-cate">
                 <div class="col s7">
                     
-                          <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
-                          </div>
+                    <div class="article-tag">
+                        
+                            <a href="/tags/diary/">
+                                <span class="chip bg-color">diary</span>
+                            </a>
+                        
+                    </div>
                     
                 </div>
                 <div class="col s5 right-align">
@@ -449,7 +453,17 @@
                 
 
                 
+                <div class="post-date info-break-policy">
+                    <i class="far fa-calendar-check fa-fw"></i>更新日期:&nbsp;&nbsp;
+                    2021-08-24
+                </div>
+                
 
+                
+                <div class="info-break-policy">
+                    <i class="far fa-file-word fa-fw"></i>文章字数:&nbsp;&nbsp;
+                    336
+                </div>
                 
 
                 
@@ -465,7 +479,9 @@
 
         <div class="card-content article-card-content">
             <div id="articleContent">
-                
+                <p>七点左右醒的，快八点起床<br>早餐面包（国内带的，刚好到保质期）和两个水煮蛋（不知道煮没煮熟，溏心蛋）。<br>10点去了趟商场，看到了一家游戏店，Zelda卖€59.99，好贵。<br>在Tesco买了锅、盘子、锅铲、调料等东西，大约€110。肉是真的便宜，一盒牛肉才€3，足够俩人吃的了。<br>回来有家McDonald`s，不过好想要出示NationID或者IRP，就没进去了。<br>中午把昨天的意面加点番茄酱和烤肉酱炒炒，还行吧。烤了牛肉，不过烤久了有点焦，肉吃起来有弹性，味道还行。<br>2021-08-23 17:57 UTC +0:00</p>
+<p>晚饭，emmmm，把剩下的意面全炒了，加了番茄酱烧烤酱和盐，味道接近番茄意面了。昨天剩下的空心菜炒了。<br>今天买的不粘铝锅好像不能用于电磁灶，烧油好一会都不开，最后朱桑拿着锅去房东那了。<br>莫名其妙少了个碗。朱桑找碗时不小心把他做的那锅辣椒炒牛肉碰到地上了，破防了破防了。还剩几块肉在锅里。<br>把中午剩下的一块猪肉直接热油煎了，有一面煎的有些焦。<br>明天还要去趟商场。<br>2021-08-23 20:42 UTC +0:00</p>
+
                 
             </div>
             <hr/>
@@ -491,7 +507,7 @@
                     </i>
                 </span>
                 <span class="reprint-info">
-                    <a href="http://SunsJadeMY.github.io/2021/08/23/day2-0823/">http://SunsJadeMY.github.io/2021/08/23/day2-0823/</a>
+                    <a href="http://SunsJadeMY.github.io/2021/08/23/day2/">http://SunsJadeMY.github.io/2021/08/23/day2/</a>
                 </span>
             </div>
             <div class="reprint__notice">
@@ -528,7 +544,11 @@
                 <div class="post-meta__tag-list" style="display: inline-block;">
                     
                         <div class="article-tag">
-                            <span class="chip bg-color">无标签</span>
+                            
+                                <a href="/tags/diary/">
+                                    <span class="chip bg-color">diary</span>
+                                </a>
+                            
                         </div>
                     
                 </div>
@@ -703,7 +723,7 @@
                 <i class="far fa-dot-circle"></i>&nbsp;本篇
             </div>
             <div class="card">
-                <a href="/2021/08/23/day2-0823/">
+                <a href="/2021/08/23/day2/">
                     <div class="card-image">
                         
                         
@@ -731,6 +751,14 @@
                     </div>
                 </div>
 
+                
+                <div class="card-action article-tags">
+                    
+                    <a href="/tags/diary/">
+                        <span class="chip bg-color">diary</span>
+                    </a>
+                    
+                </div>
                 
             </div>
         </div>
@@ -936,12 +964,12 @@
         <meting-js class="col l8 offset-l2 m10 offset-m1 s12"
                    server="netease"
                    type="playlist"
-                   id="503838841"
+                   id="6760355972"
                    fixed='true'
-                   autoplay='false'
+                   autoplay='true'
                    theme='#42b983'
                    loop='all'
-                   order='random'
+                   order='list'
                    preload='auto'
                    volume='0.7'
                    list-folded='true'
@@ -956,17 +984,20 @@
     
 
     <div class="container row center-align"
-         style="margin-bottom: 0px !important;">
+         style="margin-bottom: 15px !important;">
         <div class="col s12 m8 l8 copy-right">
             Copyright&nbsp;&copy;
             
-                <span id="year">2019-2021</span>
+                <span id="year">2021</span>
             
-            <span id="year">2019</span>
+            <span id="year">2021</span>
             <a href="/about" target="_blank">Sun</a>
             |&nbsp;Powered by&nbsp;<a href="https://hexo.io/" target="_blank">Hexo</a>
             |&nbsp;Theme&nbsp;<a href="https://github.com/blinkfox/hexo-theme-matery" target="_blank">Matery</a>
             <br>
+            
+                &nbsp;<i class="fas fa-chart-area"></i>&nbsp;站点总字数:&nbsp;<span
+                        class="white-color">831</span>
             
             
             
@@ -987,6 +1018,60 @@
             <br>
 
             <!-- 运行天数提醒. -->
+            
+                <span id="sitetime"> Loading ...</span>
+                <script>
+                    var calcSiteTime = function () {
+                        var seconds = 1000;
+                        var minutes = seconds * 60;
+                        var hours = minutes * 60;
+                        var days = hours * 24;
+                        var years = days * 365;
+                        var today = new Date();
+                        var startYear = "2021";
+                        var startMonth = "8";
+                        var startDate = "22";
+                        var startHour = "0";
+                        var startMinute = "0";
+                        var startSecond = "0";
+                        var todayYear = today.getFullYear();
+                        var todayMonth = today.getMonth() + 1;
+                        var todayDate = today.getDate();
+                        var todayHour = today.getHours();
+                        var todayMinute = today.getMinutes();
+                        var todaySecond = today.getSeconds();
+                        var t1 = Date.UTC(startYear, startMonth, startDate, startHour, startMinute, startSecond);
+                        var t2 = Date.UTC(todayYear, todayMonth, todayDate, todayHour, todayMinute, todaySecond);
+                        var diff = t2 - t1;
+                        var diffYears = Math.floor(diff / years);
+                        var diffDays = Math.floor((diff / days) - diffYears * 365);
+
+                        // 区分是否有年份.
+                        var language = 'zh-CN';
+                        if (startYear === String(todayYear)) {
+                            document.getElementById("year").innerHTML = todayYear;
+                            var daysTip = 'This site has been running for ' + diffDays + ' days';
+                            if (language === 'zh-CN') {
+                                daysTip = '本站已运行 ' + diffDays + ' 天';
+                            } else if (language === 'zh-HK') {
+                                daysTip = '本站已運行 ' + diffDays + ' 天';
+                            }
+                            document.getElementById("sitetime").innerHTML = daysTip;
+                        } else {
+                            document.getElementById("year").innerHTML = startYear + " - " + todayYear;
+                            var yearsAndDaysTip = 'This site has been running for ' + diffYears + ' years and '
+                                + diffDays + ' days';
+                            if (language === 'zh-CN') {
+                                yearsAndDaysTip = '本站已运行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                            } else if (language === 'zh-HK') {
+                                yearsAndDaysTip = '本站已運行 ' + diffYears + ' 年 ' + diffDays + ' 天';
+                            }
+                            document.getElementById("sitetime").innerHTML = yearsAndDaysTip;
+                        }
+                    }
+
+                    calcSiteTime();
+                </script>
             
             <br>
             
@@ -1015,6 +1100,10 @@
 
 
 
+
+    <a href="https://www.zhihu.com/people/tou-de-fu-sheng-ban-ri-xian-49-90" class="tooltipped" target="_blank" data-tooltip="关注我的知乎: https://www.zhihu.com/people/tou-de-fu-sheng-ban-ri-xian-49-90" data-position="top" data-delay="50">
+        <i class="fab fa-zhihu1">知</i>
+    </a>
 
 
 
