@@ -6,7 +6,7 @@
   <link href="http://sunsjademy.github.io/atom.xml" rel="self"/>
   
   <link href="http://sunsjademy.github.io/"/>
-  <updated>2021-11-04T16:34:07.285Z</updated>
+  <updated>2021-11-04T17:11:05.071Z</updated>
   <id>http://sunsjademy.github.io/</id>
   
   <author>
@@ -21,14 +21,15 @@
     <link href="http://sunsjademy.github.io/2021/110438129.html"/>
     <id>http://sunsjademy.github.io/2021/110438129.html</id>
     <published>2021-11-04T06:10:50.000Z</published>
-    <updated>2021-11-04T16:34:07.285Z</updated>
+    <updated>2021-11-04T17:11:05.071Z</updated>
     
-    <content type="html"><![CDATA[<h3><span id="section-1-functions-of-a-single-variable">Section 1 Functions of a single variable</span></h3><p>L’Hopitals Rule<br>$\lim_{x-&gt;a}{\frac{f(x)}{g(x)}}$</p>]]></content>
+    <content type="html"><![CDATA[<h1><span id="section-1-functions-of-a-single-variable">Section 1 Functions of a single variable</span></h1><p>##L’Hopitals Rule##</p><p>If $\f(x)-&gt;0$ and $\g(x)-&gt;0$ as $\x-&gt;a$<br>or $\f(x)-&gt;±∞$ and $\g(x)-&gt;±∞$ as $\x-&gt;a$<br>Then</p><center>$\lim_{x->a}{\frac{f(x)}{g(x)}} = \lim_{x->a}{\frac{f'(x)}{g'(x)}}$</center>provided that the limit exists or is ±∞.Notes:(1)L'Hopitals Rule may be used repeatedly to try to determine the limit. (2)If $\lim_{x->a}{\frac{f'(x)}{g'(x)}}$ does not exist (and is not ±∞)we cannot conclude that the original quotient also does not exist.Examples:]]></content>
     
     
       
       
-    <summary type="html">&lt;h3&gt;&lt;span id=&quot;section-1-functions-of-a-single-variable&quot;&gt;Section 1 Functions of a single variable&lt;/span&gt;&lt;/h3&gt;&lt;p&gt;L’Hopitals Rule&lt;br&gt;$\lim_{x-&amp;</summary>
+    <summary type="html">&lt;h1&gt;&lt;span id=&quot;section-1-functions-of-a-single-variable&quot;&gt;Section 1 Functions of a single variable&lt;/span&gt;&lt;/h1&gt;&lt;p&gt;##L’Hopitals Rule##&lt;/p&gt;
+&lt;p&gt;If</summary>
       
     
     
